@@ -1,0 +1,6 @@
+streamlit==1.40.2
+python-dotenv==1.0.1
+pydantic==2.10.5
+# google-genai==1.62.0  <-- Commented out
+groq==0.14.0
+huggingface_hub==0.27.1
